@@ -1,0 +1,5 @@
+module Clibpostal [system] {
+  header "shim.h"
+  link "postal"
+  export *
+}
